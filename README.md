@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 😄 Pronouns: she/her
+- 👯 I’m looking to collaborate on any projects that are a good start for junior programmers like me :) 
+- 🌱 I’m currently working on improving my problem solving abilities and get better with algorithms
+<img src="https://www.codewars.com/users/clnksr/badges/small">
+
+
+
+
+
 <!--
 **clnksr/clnksr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
