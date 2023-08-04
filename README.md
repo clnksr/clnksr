@@ -8,6 +8,7 @@
 - Java, Spring Boot
 - Angular/React
 - SQL, PostgreSQL
+- (Python)
 
 <!--
 **clnksr/clnksr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
